@@ -33,5 +33,5 @@ O projeto reúne exercícios e exemplos simples, focados em construir uma base s
 ## ▶️ Como Executar o Projeto
 1. Clone este repositório:
    ```bash
-   git clone: https://github.com/edaquinogit/python-logica-basica.git
+   git clone: https: https://github.com/edaquinogit/python-exercicios
 
