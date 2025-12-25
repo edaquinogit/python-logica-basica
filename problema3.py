@@ -13,4 +13,4 @@ else:
 
 print()   
 
-print('Obrigado por ultilizar nosso sistema bancario!')
+print('Obrigado {} por ultilizar nosso sistema bancario!'.format(nome))
